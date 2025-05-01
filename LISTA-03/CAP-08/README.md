@@ -1,4 +1,4 @@
-#🖥️Exercícios de Lógica de Programação
+# 🖥️Exercícios de Lógica de Programação
 Este repositório foi criado para auxiliar no aprendizado de lógica de programação, somente com as questões RESOLVIDAS do capítulo 8!
 
 📚 Contendo enunciados que são recomendados para estudo com foco em lógica e prática, que já são respondidos.
@@ -18,7 +18,7 @@ Q04: Faça uma sub-rotina que receba um único valor representando segundos. Ess
 Q05: Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
 
 
-Q06: Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9)
+Q06: Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9).
 
 
 Q07: Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
